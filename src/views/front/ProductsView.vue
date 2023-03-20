@@ -218,15 +218,6 @@ export default {
           });
         });
     },
-    filterProducts1(category) {
-      const filter = [];
-      this.products.forEach((item) => {
-        if (item.category === category) {
-          filter.push(item);
-        }
-      });
-      this.products = filter;
-    },
   },
   mounted() {
     this.getProducts();
