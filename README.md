@@ -1,3 +1,6 @@
+
+https://fan662.github.io/Vue3_Barbecue/
+
 # Vue Template
 
 ## Project setup
