@@ -1,5 +1,5 @@
 # 點燒烤(Barbecue)
-## 點燒烤 [GitHub Pages](https://fan662.github.io/Vue3_Barbecue/)
+## [GitHub Pages](https://fan662.github.io/Vue3_Barbecue/)
 
 ### 作品描述
 
