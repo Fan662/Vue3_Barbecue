@@ -62,6 +62,10 @@
 | 套件 | 使用 Swiper + AOS + SweetAlert2 + GSAP + CKEditor 5 + VeeValidate + Vue Loading |
 | 後端 | 使用六角學院提供 |
 
+## 開發紀錄
+因為喜歡吃燒烤所以選擇開發一個燒烤電商網站，在開發過程中不僅學習到框架運用還學習到很多相關套件的使用，
+也從中慢慢開始學會元件拆分及使用 Pinia 管理取得 Vue Loading 效果，雖然卡關的地方很多但隨著 AI 興起，
+也開始試著詠唱與 ChatGPT 合作解決問題，能更有效的學習。
 
 # Vue Template
 
